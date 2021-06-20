@@ -1,10 +1,6 @@
 import random
 
 
-class Matrix:
-    table = []
-
-
 def create_tab(N):
     table = []
     for n in range(3 * N):
